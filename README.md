@@ -19,7 +19,7 @@ wget https://raw.githubusercontent.com/Har-Kuun/easybackup/master/backup.sh && c
 ### Then:
 Edit the 2-12 lines of backup.sh with your own DB credentials, FTP credentials, and your file paths.
 
-## Everytime when you Backup:
+## To Backup:
 ```./backup.sh```
 
 ### If you are looking for a stable FTP backup storage service, take a look at [1fichier](https://1fichier.com/?af=2896848).
