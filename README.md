@@ -1,5 +1,6 @@
 # easybackup
 A Short and Easy Website Files/DB FTP Backup Script
+
 Works for websites with single DB.
 
 ## First time:
