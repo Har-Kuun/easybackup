@@ -23,4 +23,4 @@ Edit the 2-12 lines of backup.sh with your own DB credentials, FTP credentials, 
 
 ### If you are looking for a stable FTP backup storage service, take a look at [1fichier](https://1fichier.com/?af=2896848).
 
-Thanks.
+Thanks for using this script.
