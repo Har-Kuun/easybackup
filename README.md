@@ -7,12 +7,12 @@ Works for websites with single DB.
 ### For Ubuntu/Debian:
 ```
 apt-get install ftp -y
-wget https://raw.githubusercontent.com/Har-Kuun/easybackup/master/backup.sh && chmod +x backup.sh && mkdir -p ~/backup
+wget https://raw.githubusercontent.com/Har-Kuun/easybackup/master/backup.sh && chmod +x backup.sh && mkdir ~/backup
 ```
 ### For CentOS/Fedora:
 ```
 yum install ftp -y
-wget https://raw.githubusercontent.com/Har-Kuun/easybackup/master/backup.sh && chmod +x backup.sh && mkdir -p ~/backup
+wget https://raw.githubusercontent.com/Har-Kuun/easybackup/master/backup.sh && chmod +x backup.sh && mkdir ~/backup
 ```
 
 ## Then:
