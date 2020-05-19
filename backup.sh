@@ -1,6 +1,6 @@
 #!/bin/bash
 MYSQL_USER=root
-MYSQL_PASS=MyMySQLrootPassWord
+MYSQL_PASS=MySQLrootPassWord
 MYSQL_DB_NAME=mywordpressdb
 FTP_HOST=ftp.1fichier.com
 FTP_PORT=21
