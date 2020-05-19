@@ -23,7 +23,7 @@ ftp -v -n $FTP_HOST $FTP_PORT<< END
 user $FTP_USER $FTP_PASS
 type binary
 passive
-cd $FTP_PASS
+cd $FTP_PATH
 put $LOCAL_BACKUP_PATH/$DB_BACKUP_FILE_NAME.tar.gz
 put $LOCAL_BACKUP_PATH/$WEBSITE_FILES_BACKUP_FILE_NAME.tar.gz
 bye
